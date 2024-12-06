@@ -546,9 +546,9 @@ html {
   border-radius: 30px;
   margin-left: 45%;
 }
-.sub h1 {
+.goo h1 {
   padding-left: 20px;
-  padding-top: 13px;
+  padding-top: -13px;
 }
 .icon {
   width: 90%;
