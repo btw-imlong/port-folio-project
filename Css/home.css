@@ -538,7 +538,7 @@ html {
   margin: auto;
   margin-left: 20px;
 }
-.submit {
+.sub {
   width: 100px;
   height: 50px;
   background-color: grey;
@@ -546,7 +546,7 @@ html {
   border-radius: 30px;
   margin-left: 45%;
 }
-.submit h1 {
+.sub h1 {
   padding-left: 20px;
   padding-top: 13px;
 }
